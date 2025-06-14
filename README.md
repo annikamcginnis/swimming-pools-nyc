@@ -7,3 +7,4 @@ This repo includes analysis of the following datasets:
 - Aquatics Programming: 2021 to Current by NYC Parks, which shows attendance and location information for NYC Parks' indoor and outdoor aquatics program "Learn To Swim."
 - NYC Parks Outdoor Pools Session Information, which contains data on pool attendance and number of lifeguards during pool inspections
 
+For a class assignment in the Data Investigations class, Columbia Journalism School MS in Data Journalism, 2025.
